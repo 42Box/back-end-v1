@@ -1,3 +1,6 @@
 [submodule "discovery-service"]
 	path = discovery-service
 	url = https://github.com/42Box/backend-discovery-service
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/42Box/backend-auth-service
