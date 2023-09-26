@@ -13,3 +13,6 @@
 [submodule "board-service"]
 	path = board-service
 	url = https://github.com/42Box/backend-board-service
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/42Box/backend-user-service
