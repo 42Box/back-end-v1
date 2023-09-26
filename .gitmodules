@@ -7,3 +7,6 @@
 [submodule "gateway-service"]
 	path = gateway-service
 	url = https://github.com/42Box/backend-gateway-service
+[submodule "comment-service"]
+	path = comment-service
+	url = https://github.com/42Box/backend-comment-service
