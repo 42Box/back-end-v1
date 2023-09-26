@@ -4,3 +4,6 @@
 [submodule "auth-service"]
 	path = auth-service
 	url = https://github.com/42Box/backend-auth-service
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/42Box/backend-gateway-service
