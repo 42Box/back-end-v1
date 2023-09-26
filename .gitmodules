@@ -10,3 +10,6 @@
 [submodule "comment-service"]
 	path = comment-service
 	url = https://github.com/42Box/backend-comment-service
+[submodule "board-service"]
+	path = board-service
+	url = https://github.com/42Box/backend-board-service
